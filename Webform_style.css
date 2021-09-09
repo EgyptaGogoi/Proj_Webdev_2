@@ -1,0 +1,84 @@
+body{
+    margin:0;
+    padding: 0;
+}
+.Form_container
+{
+    margin: 50px;
+    border: 3px solid rgb(128, 0, 70);
+}
+.Form_container .field
+{
+    text-align:justify;
+    padding: 10px 0px;
+    padding-left: 490px;
+    color: rgb(128, 0, 70);
+}
+.Form_container .hi
+{
+    font-size: 20px ;
+    text-align:center;
+    padding: 10px 0px;
+    color: rgb(128, 0, 70);
+}
+.Form_container .email
+{
+    text-align:justify;
+    padding: 10px 0px;
+    padding-left: 450px;
+    color: rgb(128, 0, 70);   
+}
+.Form_container .texta
+{
+    display: flex;
+    line-height: 20px;
+    text-align: left;
+    padding: 0px 150px;
+    padding-left: 450px;
+    color: rgb(128, 0, 70);
+
+}
+.Form_container .texta b
+{
+    padding: 0px 5px;
+}
+h2
+{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-transform: uppercase;
+    letter-spacing: 0.2px;
+    text-align: center;
+    font-weight: bolder;
+    color: rgb(128, 0, 70);
+}
+label
+{
+    color: rgb(128, 0, 70);
+    font-weight: bold;
+    font-family: 'Courier New', Courier, monospace;
+}
+textarea
+{
+    text-decoration: none;
+}
+.Form_container .sbutton
+{
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 70px;
+}
+.Form_container button
+{
+    margin: 0px 50px;
+    padding: 5px 10px;
+    background-color: rgb(128, 0, 70);
+    color: white;
+    border: 1px solid rgb(128, 0, 70);
+    border-radius: 10px;
+}
+.Form_container .confirm
+{
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
